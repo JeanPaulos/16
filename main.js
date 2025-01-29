@@ -1,0 +1,2 @@
+document.write( '<div class=\"whatsapp-chat\" style=\"position: fixed; bottom: 10px; right: 10px; cursor: pointer; z-index: 99999999;\"></div>\n' );
+document.write( '<span class=\"whatsapp-chat\" style=\"position: fixed; bottom: 10px; right: 10px; cursor: pointer; z-index: 99999999;\"><a href=\"https://api.whatsapp.com/send?phone=310123456789\" target=\"_blank\"><img src=\"/wp-content/uploads/whatsapp.png\" alt=\"Whatsapp voor hulp bij bestellen.\" title=\"Whatsapp voor hulp bij bestellen 11-18u.\"></a></span>' );				
